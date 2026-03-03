@@ -1,7 +1,7 @@
 import CartMenuPayment from '@/components/CartMenuPayment'
 import CartTable from '@/components/CartTable'
 import React from 'react'
-import cart_image from '/public/image/catalogBanner.png'
+import cart_image from '/public/image/catalogBanner.webp'
 import Image from 'next/image'
 import { Breadcrumb } from 'antd'
 import Link from 'next/link'

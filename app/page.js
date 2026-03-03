@@ -1,6 +1,6 @@
 export const dynamic = 'force-dynamic';
 import Image from "next/image";
-import welcome_pic from "../public/image/welcome_pic.png"
+import welcome_pic from "../public/image/welcome_pic.webp"
 import BreefCatalog from "@/components/BreefCatalog";
 import getBreefFurniture from "@/libs/getBreefFurniture";
 import Link from "next/link";

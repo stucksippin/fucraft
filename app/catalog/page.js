@@ -1,7 +1,7 @@
 export const dynamic = 'force-dynamic'
 import Image from 'next/image'
 import React from 'react'
-import catalog from '/public/image/catalogBanner.png'
+import catalog from '/public/image/catalogBanner.webp'
 import Filter from '@/components/Filter'
 import getFurniture from '@/libs/getFurniture'
 import MainCatalog from '@/components/MainCatalog'

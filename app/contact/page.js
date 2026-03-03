@@ -1,6 +1,6 @@
 import { Breadcrumb, Descriptions } from "antd"
 import Link from "next/link"
-import banner from '@/public/image/catalogBanner.png'
+import banner from '@/public/image/catalogBanner.webp'
 import Image from "next/image"
 
 // icons
